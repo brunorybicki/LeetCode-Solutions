@@ -11,9 +11,10 @@ Source files use a simplified version of the problem title as their filename.
 Some problem directories may contain solutions written in more than one programming language.
 
 ## Languages
+The repository currently contains solutions written in:
+- C
+- Java
 
-The repository currently contains solutions written in C.
-\
 Additional languages may be added in the future.
 
 ## Purpose
