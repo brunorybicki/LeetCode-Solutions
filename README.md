@@ -13,7 +13,9 @@ Some problem directories may contain solutions written in more than one programm
 ## Languages
 The repository currently contains solutions written in:
 - C
+- C++
 - Java
+- Python
 
 Additional languages may be added in the future.
 
